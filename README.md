@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maranial 
-- 🌱 I’m a new graduate with Master's Degree in Informatics in April 2021 from Northeastern University. 
+- 🌱 I’m a new graduate with Master's Degree in Informatics in Winter 2021 from Northeastern University. 
 - 👀 I’m interested in applying a user-centered approach to research and design for each of my projects.
 - 💞️ I’m looking for an opportunity to learn and make a significant impact on the usability of products. 
 - 📫 How to reach me: mara.devlp@gmail.com 
